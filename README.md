@@ -116,14 +116,14 @@ https://www.baidu.com
 | a  | b  | c |
 | 左对齐 | 右对齐 | 居  中 |
 ```
-<kbd>[style1](www.baidu.com)</kbd>  
+<kbd>[style1](https://www.baidu.com)</kbd>  
 <b> style2 </b>  
 <i> style3 </i>  
 ||<sup> style5 </sup>
 ||<sub> style6 </sub>
 ||<br>2 style6
 ```
-<kbd>[style1](www.baidu.com)</kbd>  
+<kbd>[style1](https://www.baidu.com)</kbd>  
 <b> style2 </b>  
 <i> style3 </i>  
 ||<sup> style5 </sup>
